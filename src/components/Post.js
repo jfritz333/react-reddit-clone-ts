@@ -14,9 +14,7 @@ import {
   Label,
   Input
 } from 'reactstrap'
-import FaArrowUp from 'react-icons/lib/fa/arrow-up'
-import FaArrowDown from 'react-icons/lib/fa/arrow-down'
-import FaComment from 'react-icons/lib/fa/comment'
+import { FaArrowUp, FaArrowDown, FaComment }  from 'react-icons/fa'
 
 const Post = props => {
   return (
